@@ -1,6 +1,8 @@
 # notebook
 一些课程笔记
 
+一键下载链接：https://www.jianguoyun.com/p/DdQ7DKQQzJ-FCRjHn_4EIAA (访问密码：nUu5YP)
+
 ### ICS
 
 > 计算机系统基础
